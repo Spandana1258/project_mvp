@@ -1,0 +1,1 @@
+useful features, and also introduces snowflake's caching mechanisses, which can help speed up queries and reduce virtual warehouse costs by avoiding redundant computation.
